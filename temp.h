@@ -220,8 +220,6 @@ temp_s set_config_conv(int tfd , int conv_val);
 void *sock_func();
 void *heartbeat_func();
 
-sem_t *sem;
-
 
 #endif
 
